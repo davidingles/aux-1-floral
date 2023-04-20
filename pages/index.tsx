@@ -70,8 +70,8 @@ const Home: NextPage = () => {
             
               <Dav 
                 // className={styles.dav}
-                scale={1.1}
-                position={[-.0,0.07,0.]}
+                scale={.28}
+                position={[-.0,0.1,0.1]}
                 rotation={[Math.PI / 1000, 0, 0]}
               />
           
